@@ -6,6 +6,7 @@ import contato from "../assets/icons/contato.svg";
 import sair from "../assets/icons/sair.svg";
 import FintechSVG from '../assets/FintechSVG';
 import { NavLink } from "react-router-dom";
+import "../Style.css";
 
 const Sidenav = () => {
   return (

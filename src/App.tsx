@@ -12,7 +12,7 @@ function App() {
   return (
     <BrowserRouter>
       <DataContextProvider>
-        <div>
+        <div className='container'>
           <Sidenav /> 
             <main>
               <Header />
